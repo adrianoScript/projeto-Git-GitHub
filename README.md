@@ -58,3 +58,25 @@ Ao hospedar um projeto no github, possibilitamos que todos os envolvidos ou inte
 
 
 Além disso, o github nos concede diversas ferramentas para um melhor controle do projeto como, por exemplo,quais usuários alteraram, o que foi alterando, quando foi alterado, possibilita também que os usuários relatem problemas e muito mais.
+
+
+![Informal-Amazing-in-Korean-min](https://user-images.githubusercontent.com/85299449/133676283-acfcf4c7-9ee4-41e3-96a3-25d612ceb1a6.jpg)
+
+Mas por que usar o git e o github juntos?
+
+Pense que o git é quem fará o controle das versões dos seus projetos e o github será apenas o local em que você irá hospedar essas versões para tornar acessível a outras pessoas.
+
+Utilizando o git e o github no projeto da calculadora poderíamos resolver nosso problema da seguinte forma:
+
+1. Utilizaríamos o git para voltar o código para a versão que estava funcionado;
+2. Utilizaríamos o github para hospedar o projeto e facilitar o seu acesso ao código e o do seu amigo.
+
+
+Legal, não é?
+
+***Já sei o que é Git e Github, e agora?***
+
+
+![0_Omgp7FH70lxDA4CV](https://user-images.githubusercontent.com/85299449/133676518-fae0b404-2b3c-453e-b8ce-a8ce080b4e6a.png)
+
+Agora vamos entender como tudo isso funciona na prática. [Veja aqui.]("https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA")
