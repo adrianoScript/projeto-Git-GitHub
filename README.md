@@ -79,4 +79,4 @@ Legal, não é?
 
 ![0_Omgp7FH70lxDA4CV](https://user-images.githubusercontent.com/85299449/133676518-fae0b404-2b3c-453e-b8ce-a8ce080b4e6a.png)
 
-Agora vamos entender como tudo isso funciona na prática. ![Veja aqui.](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+Agora vamos entender como tudo isso funciona na prática.[Veja aqui.](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
