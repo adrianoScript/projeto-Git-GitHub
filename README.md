@@ -11,3 +11,5 @@ Git e Github são utilizados no dia a dia das pessoas que criam software por um 
 Em um time pequeno, algumas pessoas ainda tentam tomar conta desses arquivos de maneiras um tanto questionáveis:
 
 Imagine que você e um amigo estão trabalhando em um projeto de uma calculadora com as funcionalidades básicas. Um projeto bem simples mas, mesmo sendo um projeto simples, já conseguimos enxergar uma complicação.
+
+https://miro.medium.com/max/200/0*SmxR_5lIhS3olQ-H
