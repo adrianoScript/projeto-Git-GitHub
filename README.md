@@ -28,7 +28,7 @@ Horas e horas procurando o erro e não encontram. E agora? O que fazer? Se ao me
 
 Mas não se preocupe… é aí que entra o Git e Github, vamos lá!
 
-                                                                              *  *  *
+                                                       *  *  *
                                                                               
 **O que é Git ?**
 
@@ -45,6 +45,8 @@ Parece perfeito para o projeto da calculadora, não?
 
 
 Mas pode ficar ainda melhor com o github!!!
+
+                                                      *  *  *
 
 **O que é Github?**
 
