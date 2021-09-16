@@ -12,4 +12,5 @@ Em um time pequeno, algumas pessoas ainda tentam tomar conta desses arquivos de 
 
 Imagine que você e um amigo estão trabalhando em um projeto de uma calculadora com as funcionalidades básicas. Um projeto bem simples mas, mesmo sendo um projeto simples, já conseguimos enxergar uma complicação.
 
-https://miro.medium.com/max/200/0*SmxR_5lIhS3olQ-H
+
+![EYpOLM2WkAIn_Si](https://user-images.githubusercontent.com/85299449/133671288-df32dab4-8863-4f18-ae6e-178464da8e5a.jpg)
