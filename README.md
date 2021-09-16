@@ -1,5 +1,5 @@
 # projeto-Git-GitHub
- **Do conceito a prática**
+ # Do conceito a prática
 
  
 ![0_IniIrzeMefxXhGeZ](https://user-images.githubusercontent.com/85299449/133669217-b4bc5110-becc-43ca-9c14-b5241bc989ae.png)
@@ -30,7 +30,7 @@ Mas não se preocupe… é aí que entra o Git e Github, vamos lá!
 
                                                        *  *  *
                                                                               
-**O que é Git ?**
+## **O que é Git ?**
 
 
 ![0_n3YQszsangNmVlSh](https://user-images.githubusercontent.com/85299449/133673906-976e06cb-f870-4dfe-a6ad-37dde67f7f4c.png)
@@ -48,7 +48,7 @@ Mas pode ficar ainda melhor com o github!!!
 
                                                       *  *  *
 
-**O que é Github?**
+## **O que é Github?**
 
 
 ![github-logo-676x225](https://user-images.githubusercontent.com/85299449/133674860-862a3834-fd50-44aa-a181-d2cf500f4161.png)
@@ -74,7 +74,7 @@ Utilizando o git e o github no projeto da calculadora poderíamos resolver nosso
 2. Utilizaríamos o github para hospedar o projeto e facilitar o seu acesso ao código e o do seu amigo.
 
 
-Legal, não é?
+## Legal, não é?
 
 ***Já sei o que é Git e Github, e agora?***
 
